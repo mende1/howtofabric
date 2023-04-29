@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "howtofabric:citrine_ore",
+    "howtofabric:citrine_block",
+    "howtofabric:deepslate_citrine_ore"
+  ]
+}
