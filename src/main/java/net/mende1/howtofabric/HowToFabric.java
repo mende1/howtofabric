@@ -1,6 +1,8 @@
 package net.mende1.howtofabric;
 
 import net.fabricmc.api.ModInitializer;
+import net.mende1.howtofabric.block.ModBlocks;
+import net.mende1.howtofabric.item.ModItemGroup;
 import net.mende1.howtofabric.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -11,6 +13,8 @@ public class HowToFabric implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		ModItemGroup.registerItemGroups();
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }

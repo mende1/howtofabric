@@ -2,5 +2,9 @@
   "item.howtofabric.raw_citrine": "Raw Citrine",
   "item.howtofabric.citrine": "Citrine",
 
-  "itemGroup.howtofabric.citrine": "Citrine Tutorial Tab"
+  "block.howtofabric.citrine_block": "Block of Citrine",
+  "block.howtofabric.citrine_ore": "Citrine Ore",
+  "block.howtofabric.deepslate_citrine_ore": "Deepslate Citrine Ore",
+
+  "itemGroup.howtofabric.citrine": "Citrine Item Group"
 }
