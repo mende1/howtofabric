@@ -1,37 +1,37 @@
 {
-  "schemaVersion": 1,
-  "id": "howtofabric",
-  "version": "${version}",
-
-  "name": "Yet Another FabricMC Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
-  "authors": [
-    "Gustavo Mendel"
-  ],
-  "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
-  },
-
-  "license": "MIT License",
-
-  "environment": "*",
-  "entrypoints": {
-    "main": [
-      "net.mende1.howtofabric.HowToFabric"
-    ]
-  },
-  "mixins": [
-    "howtofabric.mixins.json"
-  ],
-
-  "depends": {
-    "fabricloader": ">=0.14.17",
-    "fabric-api": "*",
-    "minecraft": "~1.19.4",
-    "java": ">=17"
-  },
-  "suggests": {
-    "another-mod": "*"
-  }
+	"schemaVersion": 1,
+	"id": "howtofabric",
+	"version": "0.0.1",
+	"name": "HowToFabric",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Gustavo Mendel (mende1)"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT License",
+	"icon": "assets/howtofabric/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.mende1.howtofabric.HowToFabric"
+		],
+		"fabric-datagen": [
+			"net.mende1.howtofabric.HowToFabricDataGenerator"
+		]
+	},
+	"mixins": [
+		"howtofabric.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.19",
+		"minecraft": "~1.19.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
 }
