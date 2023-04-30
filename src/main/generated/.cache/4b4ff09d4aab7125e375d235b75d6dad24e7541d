@@ -1,7 +1,7 @@
-// 1.19.4	2023-04-29T23:32:12.963661346	HowToFabric/Recipes
+// 1.19.4	2023-04-29T23:44:33.003765581	HowToFabric/Recipes
 522300e669c4e48f18ac8348f3e4f068297d2721 data/howtofabric/recipes/citrine_from_smelting_raw_citrine.json
 b2a87da2870d0ff8b9227a33f77983ea1f4dd863 data/howtofabric/advancements/recipes/building_blocks/citrine.json
 1b4b716f8ab276115348c70cfea9c18a0914a73e data/howtofabric/advancements/recipes/misc/citrine_from_smelting_raw_citrine.json
 ae8be7c9b24bce2a3b310f3f26f9bb1c1bca2a7d data/howtofabric/recipes/citrine.json
-dbd1553e9bf42ad0128b57be8e20ff5baf1becab data/howtofabric/advancements/recipes/decorations/citrine_block.json
 f7739fc71119005ee21ccf5d919bb24a8aea8665 data/howtofabric/recipes/citrine_block.json
+dbd1553e9bf42ad0128b57be8e20ff5baf1becab data/howtofabric/advancements/recipes/decorations/citrine_block.json

@@ -1,2 +1,4 @@
-// 1.19.4	2023-04-29T23:32:12.963097706	HowToFabric/Block Loot Tables
+// 1.19.4	2023-04-29T23:44:33.003268845	HowToFabric/Block Loot Tables
+c715c8e299fa2585abc5cb8352b724d4e3a61005 data/howtofabric/loot_tables/blocks/citrine_ore.json
 2999ba6ba135f0caf554ac108e81695c1bbc9e89 data/howtofabric/loot_tables/blocks/citrine_block.json
+e9d0c90473f40c2bb42e6b98b4aa433950a81cf0 data/howtofabric/loot_tables/blocks/deepslate_citrine_ore.json
