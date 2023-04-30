@@ -1,0 +1,12 @@
+// 1.19.4	2023-04-29T23:32:12.963943843	HowToFabric/Model Definitions
+5aea66da8a8245c89736d9016fddbdab8d4796bc assets/howtofabric/models/item/raw_citrine.json
+a3c0bd7bf3ae84a8766403683e5c905698835591 assets/howtofabric/models/block/citrine_block.json
+a1349b1360e78761d68f30803543b01f45281513 assets/howtofabric/models/item/citrine_block.json
+bb23da352ac2a04d4a3fc2f83c78ae824d3c5a78 assets/howtofabric/models/item/deepslate_citrine_ore.json
+9aeb2fb375ec33ee5144d8bb9780c639ac921b36 assets/howtofabric/models/block/citrine_ore.json
+232a54d189a70d0fc24bcd9759482e55780ac55b assets/howtofabric/blockstates/citrine_ore.json
+bc4ae7b4da03a16141d24d24f9de421491a071f0 assets/howtofabric/models/block/deepslate_citrine_ore.json
+df33697b96118b202ad8eebccb9a9da0d184deb4 assets/howtofabric/blockstates/deepslate_citrine_ore.json
+562647328353b81a7626f949210e7bcee8eda48c assets/howtofabric/blockstates/citrine_block.json
+d42cf020adcae579380a3bd5a0a19a6f91bfc5c2 assets/howtofabric/models/item/citrine_ore.json
+2fd590273d5f6af59103178bc45e12fb167d6ed7 assets/howtofabric/models/item/citrine.json
